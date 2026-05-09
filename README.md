@@ -73,6 +73,18 @@ Currently, I am expanding my expertise into **AWS Cloud Architecture** and **AI 
 
 <br/>
 
-<div align="center">
-  <img src="github-metrics.svg" alt="GitHub Metrics" width="100%" />
-</div>
+<h2 align="center">📊 GitHub Power Analytics</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="45%" valign="top">
+      <img src="github-metrics.svg" alt="GitHub Metrics" width="100%" />
+    </td>
+    <td align="center" width="55%" valign="top">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Tuoi-SE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="100%" />
+      <br/><br/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tuoi-SE&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
+    </td>
+  </tr>
+</table>
+

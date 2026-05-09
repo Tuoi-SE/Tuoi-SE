@@ -18,10 +18,10 @@ jobs:
           # BẮT BUỘC: Bạn phải tạo một Token (PAT) và lưu vào Secrets của Repo
           token: ${{ secrets.METRICS_TOKEN }}
 
-          # Cấu hình cơ bản
+          # Cấu hình cơ bản (Chỉ giữ lại Header để gọn gàng như hình 2)
           user: Tuoi-SE
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, metadata
           config_timezone: Asia/Ho_Chi_Minh
           config_theme: tokyonight
           
@@ -29,13 +29,11 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           
-          # 2. Plugin Ngôn ngữ
+          # 2. Plugin Ngôn ngữ (Hiển thị Most used và Recently used như hình 2)
           plugin_languages: yes
-          plugin_languages_details: percentage
+          plugin_languages_sections: most-used, recently-used
+          plugin_languages_details: percentage, lines, bytes-size
           plugin_languages_limit: 8
-          
-          # 3. Plugin Trophies/Achievements (Thành tựu)
-          plugin_achievements: yes
-          plugin_achievements_display: detailed
-          plugin_achievements_secrets: yes
-          plugin_achievements_threshold: C
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_days: 14
+          plugin_languages_recent_load: 300
