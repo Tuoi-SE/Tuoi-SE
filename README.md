@@ -1,13 +1,13 @@
-&lt;h1 align="center"&gt;Hi 👋, I'm Funny&lt;/h1&gt;
-&lt;h3 align="center"&gt;A passionate Full Stack Developer from Vietnam&lt;/h3&gt;
+&lt;div align="center"&gt;
 
-&lt;p align="center"&gt;
-  &lt;img src="https://komarev.com/ghpvc/?username=Tuoi-SE&label=Profile%20views&color=0e75b6&style=flat" alt="Tuoi-SE" /&gt;
-&lt;/p&gt;
+# Hi 👋, I'm Funny
+### A passionate Full Stack Developer from Vietnam
 
-&lt;p align="center"&gt;
-  &lt;a href="https://git.io/typing-svg"&gt;&lt;img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Engineering+Student;Always+learning+new+things" alt="Typing SVG" /&gt;&lt;/a&gt;
-&lt;/p&gt;
+&lt;img src="https://komarev.com/ghpvc/?username=Tuoi-SE&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /&gt;
+&lt;br&gt;&lt;br&gt;
+&lt;img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Engineering+Student;Always+learning+new+things" alt="Typing SVG" /&gt;
+
+&lt;/div&gt;
 
 ---
 
