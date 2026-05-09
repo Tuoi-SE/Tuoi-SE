@@ -1,28 +1,55 @@
-<h1 align="center">Hi 👋, I'm Funny</h1>
-<h3 align="center">A passionate Full Stack Developer from Vietnam</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=646CFF&center=true&vCenter=true&width=700&lines=Hi+there,+I'm+Funny+👋;A+Driven+Fullstack+Software+Engineer;Building+Seamless+Digital+Experiences;Transforming+Complex+Problems+into+Code" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tuoi-SE&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+  <p align="center">
+    <strong>🚀 Passionate about architecting scalable, high-performance web applications and crafting intuitive user experiences. 
+    I bridge the gap between elegant frontend design and robust backend infrastructure, ensuring every line of code adds value and efficiency.</strong>
+  </p>
+
+  <p align="center">
+    I am a solution-oriented developer who thrives on tackling complex technical challenges. From designing efficient database schemas to building responsive, modern user interfaces, I am committed to delivering high-quality, maintainable software that solves real-world problems. My journey is fueled by a relentless curiosity and a deep-seated love for the craft of software engineering.
+  </p>
+
+  <p align="center">
+    <a href="https://github.com/Tuoi-SE">
+      <img src="https://img.shields.io/badge/Fullstack-Architecture-007ACC?style=for-the-badge&logo=typescript" alt="Skill" />
+    </a>
+    <a href="https://github.com/Tuoi-SE">
+      <img src="https://img.shields.io/badge/Next.js-Ecosystem-black?style=for-the-badge&logo=next.js" alt="Skill" />
+    </a>
+    <a href="https://github.com/Tuoi-SE">
+      <img src="https://img.shields.io/badge/NestJS-Microservices-E0234E?style=for-the-badge&logo=nestjs" alt="Skill" />
+    </a>
+    <a href="https://github.com/Tuoi-SE">
+      <img src="https://img.shields.io/badge/Scalable-Solutions-6DA55F?style=for-the-badge&logo=node.js" alt="Skill" />
+    </a>
+  </p>
+
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Tuoi-SE&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
+  </p>
+</div>
+
+
 
 ---
 
-## 🙋‍♂️ About Me
+## About Me
 
-- 🎓 I'm a **final-year Software Engineering student** at **Van Lang University**
-- 💻 Passionate about **Full Stack Development** with hands-on experience in real-world projects
-- 🌱 Currently focusing on building scalable web applications
-- ⚡ I enjoy solving problems and turning ideas into code
+- I'm a **final-year Software Engineering student** at **Van Lang University**
+- Passionate about **Full Stack Development** with hands-on experience in real-world projects
+- Currently focusing on building scalable web applications
+- I enjoy solving problems and turning ideas into code
 
 ---
 
-## 🌐 Socials:
+## Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/Funny)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/quang.tuoi.610192/)
 
 ---
 
-## 🚀 Projects
+## Projects
 
 &gt; *Điền các dự án nổi bật của bạn vào đây*
 
@@ -34,7 +61,7 @@
 
 ---
 
-## 💻 Tech Stack:
+## Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -64,7 +91,7 @@
 
 ---
 
-## 🎯 Currently Learning
+## Currently Learning
 
 - 🧠 **System Design** — Designing scalable and maintainable architectures
 - ☁️ **Cloud Services** — Deep diving into AWS services and deployment strategies
@@ -72,7 +99,7 @@
 
 ---
 
-## 📫 Contact
+## Contact
 
 - 📧 **Email:** your.email@example.com *(Thay bằng email thật)*
 - 💼 **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/yourprofile) *(Thêm nếu có)*
@@ -80,13 +107,7 @@
 
 ---
 
-## ⚡ Fun Fact
-
-&gt; 🎮 Code không chạy? Thử tắt máy tính, đi ngủ, mai code tự chạy! *(Hoặc viết fun fact thật của bạn)*
-
----
-
-## 📊 GitHub Stats:
+## GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Tuoi-SE&theme=dark&hide_border=false&include_all_commits=false&count_private=false)&lt;br/&gt;
 ![](https://streak-stats.demolab.com/?user=Tuoi-SE&theme=dark&hide_border=false)&lt;br/&gt;
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Tuoi-SE&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
